@@ -3,11 +3,11 @@ Network diagrams can be helpful at the beginning of a project to understand the 
 
 Graphs are made of nodes and edges, so first we need to import them. We need a file (.csv or similar) of edges, with the structure:
 
-	|Source	|Target|Weight|
- |--------|
-	|1|2|x|
-	|1|3|y|
-	|2|1|z|
+|Source	|Target|Weight|
+|-------|------|------|
+|1      |2     |x     |
+|1      |3     |y     |
+|2      |1     |z     |
 
 where Source and Target are nodes, and weight refers to the strength of the connection between them. Then we need a file of Nodes with their characteristics:
 
