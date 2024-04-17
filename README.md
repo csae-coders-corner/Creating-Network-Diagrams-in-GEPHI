@@ -11,10 +11,11 @@ Graphs are made of nodes and edges, so first we need to import them. We need a f
 
 where Source and Target are nodes, and weight refers to the strength of the connection between them. Then we need a file of Nodes with their characteristics:
 
-	Node	Characteristic 1	Characteristic 2	
-	1	a	x	
-	1	b	y	
-	2	c	z	
+|Node	|Characteristic 1 |Characteristic 2|	
+|-------|-----------------|----------------|
+|1	|a	          |x	           |
+|1	|b	          |y	           |
+|2	|c	          |z	           |
 
 
 Then start a new Gephi project and import these using the wizards, e.g.:
