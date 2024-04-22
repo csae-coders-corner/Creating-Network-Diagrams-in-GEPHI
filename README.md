@@ -1,3 +1,6 @@
+
+![CC Graphics 2024_NeworkDiagrams](https://github.com/csae-coders-corner/Creating-Network-Diagrams-in-GEPHI/assets/148211163/c53c1645-aed2-4972-8692-7c240f941680)
+
 # Creating-Network-Diagrams-in-GEPHI
 Network diagrams can be helpful at the beginning of a project to understand the data, and at the end of a project to bring a result to life. Gephi is a useful program for creating, manipulating and rendering high quality graphs. It is open-source and a bit temperamental, relative to say Stata or Matlab, but more than worth the odd crash (just make sure to keep saving). It is free to download from here- https://gephi.org/users/download/. 
 
